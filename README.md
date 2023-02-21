@@ -5,9 +5,8 @@ Domain: Human Resources
 The goal of this project is to complete two exploratroy data analysis projects using Python skills:
 
 1. Diamonds Data Analysis
-    - Imported csv dataset with pandas
-    - DataFrames
-    - DataFrame describe() function
+    - Importing csv with pandas
+    - DataFrames (describe)
     - Series method unique()
     - Histograms with matplotlib
 
