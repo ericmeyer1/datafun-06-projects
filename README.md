@@ -2,7 +2,7 @@
 
 Domain: Human Resources
 
-The goal of this project is to complete two exploratroy data analysis projects using Python skills:
+The goal of this project is to complete two exploratory data analysis projects using Python skills:
 
 1. Diamonds Data Analysis
     - Importing csv with pandas
