@@ -11,6 +11,7 @@ The goal of this project is to complete two exploratroy data analysis projects u
     - Histograms with matplotlib
 
 2. Workforce (Recruiting & Performance) Data Analysis
+    - Data is made up HR data from Kaggle: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
     - Anwsering HR questions relating to:
         - Recruiting source hiring success
         - Candidate performance level by recruiting source
